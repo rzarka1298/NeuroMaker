@@ -1,0 +1,14 @@
+results {
+  alternatives {
+    transcript: "testing hello"
+    confidence: 0.941421627998352
+  }
+  result_end_time {
+    seconds: 2
+    nanos: 520000000
+  }
+  language_code: "en-us"
+}
+total_billed_time {
+  seconds: 15
+}
