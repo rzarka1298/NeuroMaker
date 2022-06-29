@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neural-reactor-348818",
+  "private_key_id": "3a175af70919f534ea82ae70079452b2111b9016",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXYISnhf4BQARl\nmyqDR71xlbHLopkmTTQVPevWBz1k4kBNDzXv8LIkChIX+ys9Ei/emhx8CzhjbLEi\nd7yh3S9XZyO7x68597j37Ks4IgVSTbOSnFDen7sJ/zcehC7qbqhYT66QtIdVZfFO\nlMEmiDtbfE3YpxqBj0JMIdicwtpaRCodn/3YHgaciFaTSHFHZdn5Afm2S/PcQ3qh\nqA+25SBh01DaiYbe9+QARL0zvyRptWnyqxXeDAXuYHcOgBqZk/CYELsO3RQJJ50Z\n4m2OENNuRNTsSa/GrUvoKFKKVBP6CDQBwsL+V9ZIhsg3EiiklDj9Dj74316VApP1\n6lLlXV9zAgMBAAECggEAEcCXmKR7FvRwpOXJ2jQglbXOGv504sFXuUyrX/c2Dk2w\n6BiU5RBKI+CBIgoqQPLlZZVB1T46R6v9001NdCy3ROhrOrX+k61nJhQS5EtWamzY\nVqTkSvyvzPVUJneun37eA9/xreCt+lLb4LD15ynqJB7IwP6fz3qDIOCF7E8MQlzh\nPCkQmBmdOH21+9clsAqPo7DiURZCiejai/1Uw3sGUhOQj0bdUj0a4fD5atOlyZpo\n1eOxga83Ke7nb9gQkhhLrrblNJxy1ztD+aRGXX+ysruPgP4tto5VYEwdr80Aviz6\n5CRr203hjoOjC+WqkU+WuKDdmBtfUA+G8k6QMeQzKQKBgQDIb8oEr5HKiCUoFdGW\nVRWhiqEshc3n//3ICowliJdDqXf7S6OzqSLirr/iZEQleZwyDq71z3etGH8DXaoX\n4WAvAkd/ohKdTeA1CkpNY6ItXlJAOJyKGw+WQuTyipfgfpwCnjvEz0hvJsfU4ORs\njhmZH0TeC7nfZN+5MBz95G13FQKBgQDBVygN4c3dTTbmAMNWN0maRdXFQHYb7ouy\nijvVMQgK5NESEZ7Yq2L8OHyVC934EWO807OToDFCLjluIvfntkCkmyyHOATk/oPB\nTFR5r12IU0+80grVD5imHSAAaq1+a75RqTAOnTtoijIaOTWoZzEnx/Mpn6Yy8ONe\nK43wm2YeZwKBgQDGVR+wbU40+2zQ8m4WdJDX7UY4uRobVEp5tD4jMbqEAGAx8BHH\nSDi117cVvKNV9bTiL3de0nEYfeHIodkaki/LtFStbeE/eHy/3zPQyiMDA48d7yau\n3cIZrI3BlfRc9stHJ+36fCWvns8jzXkaFa4svy01DqNY8wcRxxMZA/xxVQKBgBZr\ntQlnFiiDu8oQbJai8rYhQxkM0KWMlEawISAn/3bD8jrWMEWQGnqFUm02YxdRbO+I\n3VpRSWUTVzWeeIE2cWilVhSYOnkTytOvtlwmKgKVJroO4ZKzrFAXMI7b0CLI+9kc\ndaY8NZd57zV7TO2qidjDJz+8c9mUdcmF43/zhXQhAoGAB6ni+07ddErqDOA7q3QL\nKfKYsvKeQnwQuXN3o9hxEjAi58Qg9U8Z45U5uEDeGpCFlIfx+K/54TwDbGbMXu9/\n3GT8nLwwCo0/95lqQtAcvUoOCZO9OZYCUfM28kk5AWjU+F/pDJX+bXK8bm81Q9Wk\nj9LjEmRCjuSKvZ2+GaJXts4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "neuromaker@neural-reactor-348818.iam.gserviceaccount.com",
+  "client_id": "108118341536714441638",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neuromaker%40neural-reactor-348818.iam.gserviceaccount.com"
+}
